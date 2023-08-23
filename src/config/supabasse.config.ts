@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { createClient } from '@supabase/supabase-js';
 
 const supabaseUrl = 'https://mobgvyyfwsgwzbyvxgoc.supabase.co';
